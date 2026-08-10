@@ -37,7 +37,7 @@ Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universid
   - Herramienta de análisis forense en C++ que escanea la memoria de procesos activos en Windows para identificar anomalías, regiones de memoria sospechosas y módulos cargados. Complementa el proyecto de inyección de código como contramedida defensiva.
   - Tecnologías utilizadas: C++, Windows API
 
-- [**TSP-with-Genetic-Algorithm-in-Android** (Público)](https://github.com/EricOrtiz28/TSP-with-Genetic-Algorithm-in-Android)
+- [**TSP-con-Algoritmos-geneticos-Android** (Público)](https://github.com/EricOrtiz28/TSP-con-Algoritmos-geneticos-Android)
   - Aplicación Android que resuelve el Problema del Viajante (TSP) mediante un algoritmo genético con selección, cruce y mutación, optimizando rutas entre ciudades con visualización interactiva en el dispositivo.
   - Tecnologías utilizadas: Kotlin, Android
 
