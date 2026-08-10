@@ -79,7 +79,7 @@ Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universid
   - Juego de batalla naval con arquitectura DevOps completa: Docker Compose, Prometheus, Grafana, pruebas BDD con behave, pruebas unitarias con pytest, CI/CD con GitHub Actions y modo multijugador con Socket.IO.
   - Tecnologías utilizadas: Python, Flask, Docker, Prometheus, Grafana
 
-- [**QuizGenius-AI** (Público)](https://github.com/EricOrtiz28/QuizGenius-AI)
+- [**QuizGenius-AI** (Público)](https://github.com/Ebertlimache/QuizGenius-AI)
   - Frontend de una plataforma educativa inteligente que genera cuestionarios y flashcards automáticamente a partir de PDFs usando IA. Incluye autenticación, dashboard por workspace y widget de chat con Voiceflow.
   - Tecnologías utilizadas: Next.js 15, React 19, TypeScript, Tailwind CSS
 
