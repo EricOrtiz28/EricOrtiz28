@@ -41,8 +41,12 @@ Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universid
   - Aplicación Android que resuelve el Problema del Viajante (TSP) mediante un algoritmo genético con selección, cruce y mutación, optimizando rutas entre ciudades con visualización interactiva en el dispositivo.
   - Tecnologías utilizadas: Kotlin, Android
 
-- [**AppMovil_CurvaBezier** (Público)](https://github.com/EricOrtiz28/AppMovil_CurvaBezier)
-  - App móvil en la que se pueden crear puntos de control y visualizar la curva de Bézier resultante en tiempo real con una interfaz táctil interactiva.
+- [**Curva-de-Bezier-con-Casteljau-Android** (Público)](https://github.com/EricOrtiz28/Curva-de-Bezier-con-Casteljau-Android)
+  - App móvil en la que se pueden crear puntos de control y visualizar la curva de Bézier resultante en tiempo real (usando el algoritmo de De Casteljau) con una interfaz táctil interactiva.
+  - Tecnologías utilizadas: Kotlin, Android
+
+- [**curva-de-Bezier-calculada-con-polinomios-de-Bernstein-en-Android** (Público)](https://github.com/EricOrtiz28/curva-de-Bezier-calculada-con-polinomios-de-Bernstein-en-Android)
+  - App móvil para colocar puntos de control sobre un lienzo y visualizar de forma interactiva la curva de Bézier resultante (usando polinomios de Bernstein).
   - Tecnologías utilizadas: Kotlin, Android
 
 - **BehaviorNet Analyzer** (Privado)
@@ -75,7 +79,7 @@ Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universid
   - Juego de batalla naval con arquitectura DevOps completa: Docker Compose, Prometheus, Grafana, pruebas BDD con behave, pruebas unitarias con pytest, CI/CD con GitHub Actions y modo multijugador con Socket.IO.
   - Tecnologías utilizadas: Python, Flask, Docker, Prometheus, Grafana
 
-- [**QuizGenius-AI** (Público)](https://github.com/thsergitox/QuizGenius-AI)
+- [**QuizGenius-AI** (Público)](https://github.com/EricOrtiz28/QuizGenius-AI)
   - Frontend de una plataforma educativa inteligente que genera cuestionarios y flashcards automáticamente a partir de PDFs usando IA. Incluye autenticación, dashboard por workspace y widget de chat con Voiceflow.
   - Tecnologías utilizadas: Next.js 15, React 19, TypeScript, Tailwind CSS
 
