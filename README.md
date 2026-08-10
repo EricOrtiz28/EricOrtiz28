@@ -6,11 +6,11 @@
 
 ## Sobre mí
 Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universidad Nacional de Ingeniería (UNI)**, con interés en seguridad informática, inteligencia artificial y desarrollo de software. Me gusta entender cómo funcionan los sistemas a bajo nivel, construir aplicaciones móviles que integren IA y experimentar con diferentes tecnologías de backend. Actualmente me encuentro explorando temas de análisis de malware, machine learning aplicado y desarrollo full-stack.
-
 <p align="center">
-    <a href="mailto:eric.ortiz.l@uni.pe" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+  <strong>Mi correo:</strong>
+  <a href="mailto:eric.ortiz.l@uni.pe">eric.ortiz.l@uni.pe</a>
+</p>
+<p align="center">
     <a href="https://www.linkedin.com/in/eric-hernan-ortiz-lozano-04364b428/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
