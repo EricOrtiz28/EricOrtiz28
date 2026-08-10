@@ -1,9 +1,29 @@
-# ¡Hola! 👋 Soy Eric Ortiz Lozano
+<h1 align="center">
+    ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Eric Ortiz Lozano
+</h1>
 
 > *"Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia."* — **Proverbios 2:6**
 
 ## Sobre mí
 Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universidad Nacional de Ingeniería (UNI)**, con interés en seguridad informática, inteligencia artificial y desarrollo de software. Me gusta entender cómo funcionan los sistemas a bajo nivel, construir aplicaciones móviles que integren IA y experimentar con diferentes tecnologías de backend. Actualmente me encuentro explorando temas de análisis de malware, machine learning aplicado y desarrollo full-stack.
+
+<p align="center">
+    <a href="mailto:eric.ortiz.l@uni.pe" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/eric-hernan-ortiz-lozano-04364b428/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/Ericort90505398" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    </a>
+    <a href="https://www.instagram.com/eric_hernan28/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.facebook.com/eric.ortiz.863085/" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+</p>
 
 ## Información Personal
 
@@ -97,11 +117,5 @@ Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universid
 - 🤖 Inteligencia artificial aplicada
 - 📱 Desarrollo de apps móviles
 
-## Contacto
 
-- 📧 **Email:** eric.ortiz.l@uni.pe
-- 💼 **LinkedIn:** [in/eric-hernan-ortiz-lozano](https://www.linkedin.com/in/eric-hernan-ortiz-lozano-04364b428/)
-- 🐦 **Twitter/X:** [@Ericort90505398](https://x.com/Ericort90505398)
-- 📸 **Instagram:** [@eric_hernan28](https://www.instagram.com/eric_hernan28/)
-- 🌐 **Facebook:** [eric.ortiz.863085](https://www.facebook.com/eric.ortiz.863085/)
 <!-- - 🌐 **Portfolio web:** [tu-sitio-web.com](https://tu-sitio-web.com) -->
