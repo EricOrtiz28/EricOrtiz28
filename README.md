@@ -101,7 +101,7 @@ Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universid
 
 - 📧 **Email:** eric.ortiz.l@uni.pe
 - 💼 **LinkedIn:** [in/eric-hernan-ortiz-lozano](https://www.linkedin.com/in/eric-hernan-ortiz-lozano-04364b428/)
-<!-- - 🌐 **Portfolio web:** [tu-sitio-web.com](https://tu-sitio-web.com) -->
 - 🐦 **Twitter/X:** [@Ericort90505398](https://x.com/Ericort90505398)
 - 📸 **Instagram:** [@eric_hernan28](https://www.instagram.com/eric_hernan28/)
 - 🌐 **Facebook:** [eric.ortiz.863085](https://www.facebook.com/eric.ortiz.863085/)
+<!-- - 🌐 **Portfolio web:** [tu-sitio-web.com](https://tu-sitio-web.com) -->
