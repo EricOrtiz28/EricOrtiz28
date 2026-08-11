@@ -11,7 +11,7 @@ Soy estudiante de la carrera de **Ciencia de la Computación** en la **Universid
   <a href="mailto:eric.ortiz.l@uni.pe">eric.ortiz.l@uni.pe</a>
 </p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/eric-hernan-ortiz-lozano-04364b428/" target="_blank">
+    <a href="https://www.linkedin.com/in/eric-hernan-ortiz-lozano/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://x.com/Ericort90505398" target="_blank">
